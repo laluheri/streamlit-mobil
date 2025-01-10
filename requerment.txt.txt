@@ -1,4 +1,5 @@
 pandas
 numpy
+sklearn
 scikit-learn
 streamlit==1.39.0
